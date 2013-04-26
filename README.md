@@ -1,4 +1,6 @@
-poodr
-=====
+Bitmaker Labs Prep Work Assignment
 
-Practical Object-Oriented Design in Ruby
+Read Practical OO Design in Ruby, taking notes in the code examples all the while. 
+
+Push code to the hub. 
+
